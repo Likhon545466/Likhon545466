@@ -1,7 +1,6 @@
 # Hello Earth!!! :) 
 
-## 💫 Nothing About Me:
-A photon running towards the edge of the universe 🌌
+## 💫 Nothing About Me: ### A photon running towards the edge of the universe 🌌
 
 
 ## 🌐 Socials:
