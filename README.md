@@ -1,6 +1,6 @@
 # Hello Earth!!! :) 
-## About Me##:
-A lurking unsophisticated lad, tryna do something good in what? 
+## About Me:
+<br> A lurking unsophisticated lad, tryna do something good in what? 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/likhsout) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/likhsout) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raisulislamlikhon12@gmail.com) 
